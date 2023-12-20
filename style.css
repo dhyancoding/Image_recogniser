@@ -1,0 +1,9 @@
+body{
+    background-image: linear-gradient(rgb(144, 238, 199),  lightblue);
+    color:mediumvioletred
+}
+#camera, #results{
+    border: 2px solid mediumvioletred;
+    width: 300px;
+    height: 300px;
+}
